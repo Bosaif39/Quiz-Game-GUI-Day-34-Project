@@ -3,7 +3,7 @@
 
 ## **Overview**
 
-This is the Day 17 project from the course "100 Days of Code: The Complete Python Pro Bootcamp". It's a simple quiz game that asks the player a series of True/False questions based on general knowledge. The game provides immediate feedback for each answer and tracks the user's score.
+This is the Day 34 project from the course "100 Days of Code: The Complete Python Pro Bootcamp". It's a simple quiz game that asks the player a series of True/False questions based on general knowledge. The game provides immediate feedback for each answer and tracks the user's score.
 
 The quiz is designed with a graphical user interface (GUI) using the `tkinter` library.
 
@@ -18,7 +18,7 @@ The game retrieves a set of True/False questions from the [Open Trivia Database]
 
 ## **Example**
 
-![Screenshot of Quiz Game](https://github.com/Bosaif39/example-pics/blob/main/D_17.PNG?raw=true)
+![Screenshot of Quiz Game]()
 
 ## **Features**
 
@@ -56,37 +56,4 @@ The project is organized into several Python files:
 * Python 3.x
 * `requests` library for API calls (`pip install requests`)
 * `tkinter` for GUI (usually comes pre-installed with Python)
-
-## **How to Run**
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/quiz-game.git
-   ```
-
-2. **Install dependencies**:
-   Make sure you have `requests` installed:
-
-   ```bash
-   pip install requests
-   ```
-
-3. **Run the game**:
-   Run the `main.py` file to start the game:
-
-   ```bash
-   python main.py
-   ```
-
-4. **Enjoy the game!**
-   The quiz will start, and you can answer True/False questions. At the end, your final score will be displayed.
-
-## **Contributing**
-
-If you’d like to contribute to this project, feel free to fork the repository and submit a pull request. Make sure to follow best practices and ensure that your changes don’t break the game.
-
-## **License**
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
