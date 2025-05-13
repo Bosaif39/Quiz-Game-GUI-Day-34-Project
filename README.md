@@ -18,11 +18,11 @@ The game retrieves a set of True/False questions from the [Open Trivia Database]
 
 ## **Example**
 
-![Screenshot of Quiz Game]()
+![Screenshot of Quiz Game](https://github.com/Bosaif39/example-pics/blob/main/D_34.png?raw=true)
 
 ## **Features**
 
-* True/False quiz questions based on general knowledge (video game-related).
+* True/False quiz questions based on general knowledge.
 * Real-time feedback after each question.
 * Score tracking that updates after each question.
 * A final score display after all questions have been answered.
