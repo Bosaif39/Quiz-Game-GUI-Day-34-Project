@@ -3,7 +3,9 @@
 
 ## **Overview**
 
-This is the Day 34 project from the course "100 Days of Code: The Complete Python Pro Bootcamp". It's a simple quiz game that asks the player a series of True/False questions based on general knowledge. The game provides immediate feedback for each answer and tracks the user's score.
+This is the Day 34 project from the course "100 Days of Code: The Complete Python Pro Bootcamp". 
+
+It's a simple quiz game that asks the player a series of True/False questions based on general knowledge. The game provides immediate feedback for each answer and tracks the user's score.
 
 The quiz is designed with a graphical user interface (GUI) using the `tkinter` library.
 
